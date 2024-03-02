@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRELIM_E3_ASSIGNMENT_BONGOJAYFORD_BSCS32E1", "PRELIM_E3_ASSIGNMENT_BONGOJAYFORD_BSCS32E1\PRELIM_E3_ASSIGNMENT_BONGOJAYFORD_BSCS32E1.csproj", "{56550569-AEC3-4DBB-A9BD-45545B22550C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PRELIM_E3_ASSIGNMENT_BONGOJAYFORD_BSCS32E1", "PRELIM_E3_ASSIGNMENT_BONGOJAYFORD_BSCS32E1\PRELIM_E3_ASSIGNMENT_BONGOJAYFORD_BSCS32E1.csproj", "{5CA81370-B048-43F0-AA60-990C33E322BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{56550569-AEC3-4DBB-A9BD-45545B22550C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56550569-AEC3-4DBB-A9BD-45545B22550C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56550569-AEC3-4DBB-A9BD-45545B22550C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56550569-AEC3-4DBB-A9BD-45545B22550C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA81370-B048-43F0-AA60-990C33E322BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA81370-B048-43F0-AA60-990C33E322BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA81370-B048-43F0-AA60-990C33E322BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA81370-B048-43F0-AA60-990C33E322BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {51DF8719-21CB-4375-9274-F70C7A607380}
+		SolutionGuid = {087DF1A0-4BB4-4D47-A385-160176CB56C1}
 	EndGlobalSection
 EndGlobal
